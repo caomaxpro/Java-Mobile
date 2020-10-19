@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pizza App</string>
+    <string-array name="pizza_types">
+        <item>Cheese Pizza</item>
+        <item>Veggie Pizza</item>
+        <item>Pepperoni Pizza</item>
+        <item>Meat Pizza</item>
+        <item>Margherita Pizza</item>
+    </string-array>
+
+    <string-array name="topping_types">
+        <item>Chicken</item>
+        <item>Beef</item>
+        <item>Tomato</item>
+        <item>Onion</item>
+        <item>Pepperoni</item>
+        <item>Cheese</item>
+        <item>Green Olives</item>
+        <item>Ham</item>
+    </string-array>
+</resources>
